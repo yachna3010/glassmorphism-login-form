@@ -26,5 +26,3 @@ This project highlights frosted glass effects, smooth gradients, and subtle anim
 - **CSS3** – glassmorphism, gradients, animations  
 
 ---
-
-## 📂 Project Structure  
