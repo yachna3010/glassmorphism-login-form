@@ -17,7 +17,7 @@ This project highlights frosted glass effects, smooth gradients, and subtle anim
 ## 📸 Preview  
 🔗 **[Live Demo](https://glassmorphism-login-form-rho.vercel.app/)**  
 
-![Login Form Preview](./screenshot.png)  
+![Login Form Preview](./demo.png)  
 
 ---
 
