@@ -15,7 +15,7 @@ This project features a frosted glass effect, gradient background, animated floa
 ---
 
 ## 📸 Preview  
-![Login Form Preview](./screenshot.png)  
+![Login Form Preview]([https://glassmorphism-login-form-rho.vercel.app/)  
 
 ---
 
